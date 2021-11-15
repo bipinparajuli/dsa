@@ -1,3 +1,7 @@
 arr=[0,2,1,2,0]
-arr.sort()
-print(arr)
+
+def xyz(a):
+    return a.sort()
+
+
+print(xyz([0,2,1,2,0]))
